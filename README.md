@@ -26,8 +26,8 @@ Passionated about tech and programming
 </picture>
 
 #### Sideprojects
-- Webdevelopment</li>
-- Wordpress</li>
+- Webdevelopment
+- Wordpress
 
 <picture>
 	<source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/CSS3/white">
@@ -45,14 +45,13 @@ Passionated about tech and programming
 	<source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/wordpress/white">
 	<img alt="dotNet'" src="https://cdn.simpleicons.org/wordpress/black" width="32" height="32">
 </picture>
-  
-#### Learning
-- Arduino / Esp32
-- Next.js
 <picture>
 	<source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/next.js/white">
 	<img alt="dotNet'" src="https://cdn.simpleicons.org/next.js/black" width="32" height="32">
 </picture>
+  
+#### Learning
+- Arduino / Esp32
 <picture>
 	<source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/arduino/white">
 	<img alt="dotNet'" src="https://cdn.simpleicons.org/arduino/black" width="32" height="32">

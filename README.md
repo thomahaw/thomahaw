@@ -2,57 +2,32 @@
 
 Passionated about tech and programming
 
-[![Gitlab Badge](https://img.shields.io/badge/-thomahaw-E2432A?style=flat&logo=Gitlab&logoColor=white)](https://gitlab.com/thomahaw)
+[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/thomahaw)
 
 #### Working in application-development
 - React-Native-Windows
 - UWP application development
 
-<picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/dotnet/white">
-	<img alt="dotNet'" src="https://cdn.simpleicons.org/dotnet/black" width="32" height="32">
-</picture>
-<picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/react/white">
-	<img alt="dotNet'" src="https://cdn.simpleicons.org/react/black" width="32" height="32">
-</picture>
-<picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/javascript/white">
-	<img alt="dotNet'" src="https://cdn.simpleicons.org/javascript/black" width="32" height="32">
-</picture>
-<picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/html5/white">
-	<img alt="dotNet'" src="https://cdn.simpleicons.org/html5/black" width="32" height="32" style="margin-left: 1em">
-</picture>
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 #### Sideprojects
 - Webdevelopment
 - Wordpress
 
-<picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/CSS3/white">
-	<img alt="dotNet'" src="https://cdn.simpleicons.org/CSS3/black" width="32" height="32">
-</picture>
-<picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/tailwindcss/white">
-	<img alt="dotNet'" src="https://cdn.simpleicons.org/tailwindcss/black" width="32" height="32">
-</picture>
-<picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/bootstrap/white">
-	<img alt="dotNet'" src="https://cdn.simpleicons.org/bootstrap/black" width="32" height="32">
-</picture>
-<picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/wordpress/white">
-	<img alt="dotNet'" src="https://cdn.simpleicons.org/wordpress/black" width="32" height="32">
-</picture>
-<picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/next.js/white">
-	<img alt="dotNet'" src="https://cdn.simpleicons.org/next.js/black" width="32" height="32">
-</picture>
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+
   
 #### Learning
 - Arduino / Esp32
-<picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/arduino/white">
-	<img alt="dotNet'" src="https://cdn.simpleicons.org/arduino/black" width="32" height="32">
-</picture>
+- Docker
+
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
